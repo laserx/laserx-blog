@@ -48,7 +48,8 @@ categories: devops
 `gitlab`的界面更具有亲和力和现代感, 如果和`github`比较的话, 其实`gitlab`也不差.
 
 ## 参考
+
 1. [gitlab](https://about.gitlab.com/)
-2. [gitlab-flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
-3. [gitlab CI](http://docs.gitlab.com/ce/ci/)
-4. [phabricator](https://phabricator.org)
+1. [gitlab-flow](https://about.gitlab.com/2014/09/29/gitlab-flow/)
+1. [gitlab CI](http://docs.gitlab.com/ce/ci/)
+1. [phabricator](https://phabricator.org)
