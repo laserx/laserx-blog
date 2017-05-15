@@ -10,6 +10,8 @@ categories: tools
 
 `gitlab`的优势是有`pr`有`ci`, 用起来和`github`基本一样, `phabricator`的优势是强大的任务管理和bug追踪管理, 附属工具非常多, 而且都很出色.
 
+<!--more-->
+
 当然, 我主要的开发语言使用的是`php`, 但这不是我选择`phabricator`的主要原因. 主要是强大的任务管理工具, 让我可以把任务管理从`trello`上迁移过来.
 
 ## 实践

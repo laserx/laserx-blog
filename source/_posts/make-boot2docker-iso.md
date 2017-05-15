@@ -12,6 +12,8 @@ categories: devops
 
 还好boot2docker构建工具能够非常轻松的帮我们做到.
 
+<!--more-->
+
 ## 异常
 当我写好Dockerfile之后, 执行`docker build -t boot2docker . && docker run --rm boot2docker > boot2docker.iso`将镜像复制到`~/.docker/machine/cache`目录下, 开启一个新的docker-machine后, 无法连接至我的私有registry, 显示的报错指向了我自签名的ca证书.
 

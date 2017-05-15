@@ -12,6 +12,8 @@ Welcome to [Hexo](http://hexo.io/)! This is your very first post. Check [documen
 $ hexo new "My New Post"
 ```
 
+<!--more-->
+
 More info: [Writing](http://hexo.io/docs/writing.html)
 
 ### Run server

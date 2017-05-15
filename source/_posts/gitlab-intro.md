@@ -4,13 +4,14 @@ date: 2016-06-12 17:12:48
 tags: git
 categories: devops
 ---
-# go
 
 ## gitlab 初识
 
 {% asset_img 1.png gitlab %}
 
 `gitlab`作为私有仓库工具, 在部署和更新上都十分方便, 使用`gitlab ce omnibus`可以做到一键部署, 整个过程轻松简单.
+
+<!--more-->
 
 但因为其包托管在`AWS`上, 国内下载困难, 可以使用本地下载后上传至服务器, 手动包安装的方法, 同时, [清华大学TUNA](https://mirror.tuna.tsinghua.edu.cn/)维护着国内的镜像, 让安装的过程更加轻松.
 

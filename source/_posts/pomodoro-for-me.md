@@ -4,11 +4,14 @@ date: 2015-07-01 22:21:43
 tags: pomodoro
 categories: others
 ---
+
 ## 工具
 1. [pomello](http://www.tinynudge.co/pomello/) and [trello](https://trello.com/)
 
 ## 步骤
 番茄工作法有五个基本步骤：
+
+<!--more-->
 
 1 .决定待完成的任务
 2. 设定番茄工作法定时器至 n 分钟（通常为25分钟）。

@@ -11,6 +11,8 @@ categories: tools
 
 gitlab的apt源在墙内用不了, 翻墙下了deb包, 上传到服务器上, `dpkg -i`加个包名轻松安装, 使用体验好的没朋友了...
 
+<!--more-->
+
 悲催的是报错了:
 ```
 PG::ConnectionBad (could not connect to server: No such file or directory

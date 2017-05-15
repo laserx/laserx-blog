@@ -1,5 +1,5 @@
 ---
-title: 春节技术文章准备
+title: 技术文章准备
 date: 2017-01-29 09:44:19
 tags:
 ---
@@ -9,13 +9,15 @@ tags:
 
 准备完成以下内容的日志编写工作.
 
+<!--more-->
+
 1. systemd
-2. ansible
-3. dockerize laravel projects
-3. node
-4. archlinux
-5. archlinux desktop env
+1. ansible
+1. dockerize laravel projects
+1. archlinux
+1. archlinux desktop env
+1. taskwarrior and trello
 
 ## 时间
 
-春节期间
+不知道...
