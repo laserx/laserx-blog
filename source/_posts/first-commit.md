@@ -1,7 +1,8 @@
+---
 title: 起点
 date: 2015-07-01 16:40:25
 tags: 随笔
-categories: 杂文
+categories: others
 ---
 ## 起点
 

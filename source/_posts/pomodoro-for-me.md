@@ -1,7 +1,8 @@
+---
 title: 我的番茄工作法
 date: 2015-07-01 22:21:43
 tags: pomodoro
-categories: 杂文
+categories: others
 ---
 ## 工具
 1. [pomello](http://www.tinynudge.co/pomello/) and [trello](https://trello.com/)

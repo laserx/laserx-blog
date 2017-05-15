@@ -1,3 +1,4 @@
+---
 title: 基于 ubuntu 搭建 docker registry
 date: 2016-02-22 02:59:09
 tags: docker

@@ -1,7 +1,7 @@
 ---
 title: 从结束到开始
 date: 2016-06-29 22:12:31
-categories: 杂文
+categories: others
 ---
 
 ## 背包

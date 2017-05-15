@@ -1,3 +1,4 @@
+---
 title: 升级 gitlab 异常的处理
 date: 2016-02-23 22:26:30
 tags: system

@@ -1,9 +1,10 @@
+---
 title: 配置mac指南
 date: 2016-03-07 22:43:03
 tags:
   - osx
   - mac
-categories: 杂文
+categories: others
 ---
 
 ## 指南

@@ -1,3 +1,4 @@
+---
 title: Ubuntu 14.04 DNS 异常解决方法
 date: 2016-01-26 12:18:48
 tags: system

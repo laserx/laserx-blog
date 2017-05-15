@@ -1,3 +1,4 @@
+---
 title: 为什么我的账号是 root
 date: 2016-01-26 14:15:26
 tags: system
