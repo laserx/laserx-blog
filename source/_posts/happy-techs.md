@@ -12,7 +12,7 @@ tags:
 <!--more-->
 
 1. systemd
-1. ansible
+1. [ansible](/2017/01/29/play-ansible/)
 1. dockerize laravel projects
 1. archlinux
 1. archlinux desktop env
