@@ -87,7 +87,9 @@ deploy:
 sitemap:
   path: sitemap.xml
 
-#duoshuo_shortname: laserx-vault
-
-# Disqus
-disqus_shortname: laserx
+algolia:
+  applicationID: '6A9ECKBJPY'
+  apiKey: 'f8c246a9ba2d0402f0815a4ba32cb36b'
+  adminApiKey: '398635984b4ff22be97bd7e75ee4d56e'
+  indexName: 'laserxs_vault'
+  chunkSize: 5000

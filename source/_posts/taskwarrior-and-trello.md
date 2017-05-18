@@ -11,6 +11,8 @@ date: 2017-05-17 22:45:01
 
 工作这么些年, 各种任务管理工具玩了个七七八八, 从最开始的 wonderlist, worktile, 到后来的 trello, phabricator, gitlab 的看板等, 基本没有一个用的很长久. 除去之前工作上使用 gitlab 的 issue board, 和 trello 这2个确实用的时间比较长之外, 别的任务管理工具可以说是, 看上一个, 用用, 过不了几天, 想起来了, 删除账号.
 
+<!--more-->
+
 之前使用 phabricator 的时候, 使用 `arc` 命令行工具的时候发现了 taskwarrior, 当时随便用了下, 感觉和 arc 的功能类似就没再使用, 直到最近, 实在是没什么可以用的工具了, 就又把 taskwarrior 捡了起来.
 
 taskwarrior 是一款命令行工具, 不包含图形界面, 在使用上, 更符合我的工作习惯, 因为 terminal 是我一天使用次数最多的工具之一, 但是, taskwarrior 不具备跨平台的能力, 这使得其在实际使用上略显不足, 不过, 还好有额外的解决方法.
