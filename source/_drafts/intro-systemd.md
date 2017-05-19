@@ -3,17 +3,16 @@ title: 使用 systemd 管理服务
 tags:
   - linux
   - systemd
-categories:
-  - devops
+categories: devops
 ---
 
 ## 什么是 systemd
 
 **systemd** 是一套系统 init 软件, 目的是替代 **system V, upstat** 等系统初始化工具.
 
-<!--more-->
-
 {% asset_img 1.png systemd %}
+
+<!--more-->
 
 systemd 的出现一直伴随着争议, 大多数声音指明 systemd 设计过度复杂, 没有遵循 Unix 哲学等.
 
