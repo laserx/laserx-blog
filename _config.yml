@@ -10,17 +10,6 @@ author: laserx
 language: zh-Hans
 timezone:
 
-social:
-  GitHub: https://github.com/laserx
-  Weibo: http://weibo.com/laserx
-
-rss: true
-
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://laserx.github.io
