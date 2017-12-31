@@ -1,5 +1,5 @@
 # Hexo Configuration
-## Docs: http://hexo.io/docs/configuration.html
+## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
@@ -54,6 +54,15 @@ highlight:
   auto_detect: true
   tab_replace:
 
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 5
+  order_by: -date
+
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -72,21 +81,18 @@ per_page: 5
 pagination_dir: page
 
 # Extensions
-## Plugins: http://hexo.io/plugins/
-## Themes: http://hexo.io/themes/
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
 theme: next
 
 # Deployment
-## Docs: http://hexo.io/docs/deployment.html
+## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:laserx/laserx.github.io.git
   branch: master
 
-# Sitemap
-sitemap:
-  path: sitemap.xml
-
+# Search
 algolia:
   applicationID: '6A9ECKBJPY'
   apiKey: 'f8c246a9ba2d0402f0815a4ba32cb36b'
