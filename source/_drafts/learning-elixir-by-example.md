@@ -37,3 +37,9 @@ elixir 更像是为开发者准备的玩具, 有趣. 而像 golang 是为工程�
 
 计划中的可能, 一系列的文章, 以及一个示例 repo 或者 page, 参照 [gobyexample](https://gobyexample.com/).
 
+## 参考资料
+1. [官方网站](https://elixir-lang.org/)
+1. [phoenix framework](http://phoenixframework.org/)
+1. [hex](https://hex.pm/)
+1. [awesome elixir](https://github.com/h4cc/awesome-elixir/)
+1. [awesome elixir by libhunt](https://elixir.libhunt.com/)
